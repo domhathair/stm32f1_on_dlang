@@ -17,7 +17,7 @@
 
 module stm32.f1x;
 
-version (stm32f1x) :
+version (stm32f1x):
 extern (C):
 @nogc:
 nothrow:
